@@ -53,8 +53,6 @@ public class Main {
 		        System.out.println("Grade: " + grade);
 
 		        // Close the Scanner object
-		        scanner.close();
-		    }
-		}
+		   
 
 		
